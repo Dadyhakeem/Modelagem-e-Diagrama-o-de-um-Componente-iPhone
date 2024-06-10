@@ -7,7 +7,7 @@ public class Iphone implements Reprodutor_musical,Telefone,Navegar_na_internet {
 
     @Override
     public void navegarParaUmaPagina(String url) {
-        System.out.println(" Navegar para uma pagina  "+ url+ " ");
+        System.out.println(" Navegar para  pagina  "+ url+ " ");
     }
 
     @Override
